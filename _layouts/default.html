@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body class="theme-base-08">
+	{% if page.category == 'guide' %}
+           {% include guide-sidebar.html %}
+    {% else %}
+	       {% include sidebar.html %}
+    {% endif %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+  </body>
+</html>
