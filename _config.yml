@@ -11,7 +11,7 @@ title:            Punchcard
 tagline:          'Engaging tech curricula, delivered by the best in the business.'
 description:      'Engaging tech curricula, delivered by the best in the business.'
 url:              http://hyde.getpoole.com
-baseurl:          /pc-new/
+baseurl:          /pc-new
 
 author:
   name:           'Mark Otto'
