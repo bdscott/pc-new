@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Payment
+title: Pricing &amp; payment
 category: guide
-nav_order: 5
+nav_order: 9
 ---
 
 ## What's included

@@ -2,7 +2,7 @@
 layout: page
 title: Recruiting students
 category: guide
-nav_order: 2
+nav_order: 5
 ---
 
 Punchcard courses are designed to be accessible to all students, regardless of previous experience with technology. In fact, we only hire instructors who have taught beginners in the past. Hosting a Code.org <a href="http://hourofcode.com/us" target="_blank">Hour of Code</a> event is a great way to recruit students who might not consider themselves &ldquo;techy.&rdquo;
@@ -30,7 +30,7 @@ This introductory course provides an fun, interactive overview of logic, computa
 
 #### Course Description
 
-An understanding of mobile design considerations is a necessity for modern developers. Students will get their hands dirty on day one, using Apple’s new iPhone development language, Swift. Students will exit with a portfolio of working iPhone apps and a desire to expand it. 
+An understanding of mobile design considerations is a necessity for modern developers. Students will get their hands dirty on day one, using Apple’s new iPhone development language, Swift. Students will exit with a portfolio of working iPhone apps and a desire to expand it.
 
 Successful completion of *Web Development* required for enrollment.
 

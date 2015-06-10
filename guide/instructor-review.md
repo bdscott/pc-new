@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Instructor review
+title: Instructor evaluation
 category: guide
-nav_order: 4
+nav_order: 8
 ---
 
 We go to great lengths to ensure that our instructors are the best possible fit for your students and the course. Each is a master of his or her craft and has a desire to share that craft with the next generation of creative problem-solvers.

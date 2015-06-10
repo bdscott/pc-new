@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Before classes begin
+title: Before the first day
 category: guide
-nav_order: 3
+nav_order: 6
 ---
 
 ## Prepare the classroom
 
-Our instructors need access to a room with a projector that can be connected to a laptop. It should comfortably accomodate 15 students, but needn't be a computer lab. Each student will be issued a Google Chromebook for use in the class. 
+Our instructors need access to a room with a projector that can be connected to a laptop. It should comfortably accomodate 15 students, but needn't be a computer lab. Each student will be issued a Google Chromebook for use in the class.
 
 The room will need strong wifi connectivity. Your IT department should be able to identify areas in the building that would be better.
 
