@@ -18,7 +18,7 @@
         {% if node.title != null %}
           {% if node.category == 'guide' %}
             {% if node.section_header != true %}
-				<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+				<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{  site.baseurl  }}{{ node.url }}">{{ node.title }}</a>
 			{% else %}
 				{{ node.title }}
 			{% endif %}
