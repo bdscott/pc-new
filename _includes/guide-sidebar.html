@@ -22,7 +22,6 @@
 			{% else %}
 				{{ node.title }}
 			{% endif %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{  site.baseurl  }}{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
